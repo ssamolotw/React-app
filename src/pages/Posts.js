@@ -1,5 +1,5 @@
 import LikeCounter from "../components/LikeCounter/LikeCounter";
-
+import './Posts.css'
 function Posts() {
     return (
         <>
