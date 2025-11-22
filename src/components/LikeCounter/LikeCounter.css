@@ -4,3 +4,18 @@
     width: 350px;
     border-radius: 0.5rem;
 }
+
+.actions {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.actions > button {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    border: none;
+
+}
